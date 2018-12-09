@@ -1,0 +1,6 @@
+krotka = (4,2,5,1,7,9,3,0,5,3)
+print(krotka[1])
+print(krotka[-2])
+print(krotka[2:8])
+print(krotka[::3])
+print(krotka[-2::-2])
