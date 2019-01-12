@@ -65,3 +65,54 @@
 # print("posortowane", posortowane)
 # print(lista.sort())
 # print(lista)
+
+# napis = "abcdabcde"
+#
+# for litera in napis:
+#     print(litera)
+#
+# for i in range(len(napis)):
+#     print(napis[i])
+#     print (dir(napis))
+#
+#     print(napis.endswith("cde"))
+#     print("a" in napis)
+#
+#     instrukcja = input("co ma zrobić? [k} by zakończyć")
+#     if instrukcja.lower() == 'k':
+#         print ("zakończyłem")
+#
+# napis2 = "ala ma kota"
+# print(napis2.capitalize())
+# print(napis2.title())
+
+# słownik
+
+# pusty słownik:
+# d = dict()
+#
+# print(type(d))
+# d['a]' = 1
+# d['b'] = 2
+# print(d)
+# print(dir(d))
+# print(d.keys())
+# print(d.values())
+# print(d.items())
+#
+# slownik = {
+#     'parametr1': 10,
+#     'parametr2': 20,
+#     'x':3
+# }
+# print(slownik)
+#
+# for k, v in slownik.keys():
+#     print(k)
+#
+#
+# zbiory
+
+zbior = {1, 2, 3,}
+zbior.add(4)
+len(zbior)
