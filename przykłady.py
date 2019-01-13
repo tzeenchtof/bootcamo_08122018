@@ -113,6 +113,21 @@
 #
 # zbiory
 
-zbior = {1, 2, 3,}
-zbior.add(4)
-len(zbior)
+# zbior = {1, 2, 3,}
+# zbior.add(4)
+# len(zbior)
+
+# sortowanie
+#
+# liczby = [5, 2, 4, 7, 8, 3, 9, 0, 1]
+# for i in range(len(liczby)):
+#     for j in range(i, len(liczby)):
+#         print (j, liczby[j])
+#     print('-'*10)
+
+# wyrażenie listowe
+# podniesienie do kwadratu wysztkich pażystych z listy
+# xx = [i**2 if i%2 == 0 else i for i in x]
+# {k: x**2 for k in range(20)}
+# (k for k in range(10))
+
